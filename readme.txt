@@ -5,4 +5,4 @@ Git tracks changes of files.
 the first change
 the second change 
 Creating a new branch is quick and simple.
-today is fine.
+today is very good.
